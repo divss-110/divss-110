@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Divyanshi Katiyar 👋
 
-<!--
-**divss-110/divss-110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering Undergrad
 
-Here are some ideas to get you started:
+## 💻 Technologies & Skills
+- C
+- C++
+- Data Structures
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔌 Areas of Interest
+- Embedded Systems
+- Internet of Things (IoT)
+- VLSI
+
+## 📚 Currently Learning
+- Embedded C
+- Arduino Programming
+
+## 🔨 Currently Working On
+- Data Structures in C/C++
+- Building my GitHub Portfolio
+
+## 🚀 Goal
+To build practical embedded and electronics projects while preparing for internships and opportunities in Embedded Systems, IoT, and related domains.
+
+## 📫 Connect With Me
+- GitHub: github.com/divss-110
+
+⭐ Always learning and building one project at a time.
