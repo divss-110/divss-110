@@ -9,9 +9,10 @@
 - Git & GitHub
 
 ## 🔌 Areas of Interest
-- Embedded Systems
-- Internet of Things (IoT)
 - VLSI
+- Internet of Things (IoT)
+- Embedded Systems
+
 
 ## 📚 Currently Learning
 - Embedded C
